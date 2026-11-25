@@ -1,4 +1,8 @@
 {
-  "repo": "rafasfriend-dev/VanillaToModded",
-  "repo_id": 1471168262
+  "dinoMappings": [
+    {
+      "fromClass": "/Game/ASA/Dinos/Chameleon/Chameleon_Character_BP.Chameleon_Character_BP",
+      "toClass": "/EnigmaNoExpire/Chameleon_NoExpire_BP.Chameleon_NoExpire_BP"
+    }
+  ]
 }
